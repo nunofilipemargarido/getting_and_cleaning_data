@@ -27,6 +27,13 @@ With the package dplyr a use a group_by
 next a had calculated the mean
 
 
+Notes: 
+======
+- Features are normalized and bounded within [-1,1].
+- Each feature vector is a row on the text file.
+
+
+
 ----- Description-------
 
 These signals were used to estimate variables of the feature vector for each pattern:  
